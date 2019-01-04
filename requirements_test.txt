@@ -1,0 +1,7 @@
+-r requirements.txt
+django-dictionaryfield>=2.4.3
+pytest
+pytest-django>=3
+pytest-mock~=1.2
+teamcity-messages~=1.17
+
